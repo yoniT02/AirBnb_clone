@@ -27,7 +27,7 @@ Functionalities of this command interpreter:
 
 ## Installation
 
-* Clone this repository: git clone "https://github.com/Zeph16/AirBnB_clone.git"
+* Clone this repository: git clone "https://github.com/yoniT02/AirBnB_clone.git"
 * Access AirBnb directory: cd AirBnB_clone
 * Run hbnb(interactively): ./console and enter command
 * Run hbnb(non-interactively): echo "" | ./console.py
